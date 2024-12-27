@@ -1,6 +1,6 @@
-# password-gen-and-manager
+# Password-Gen-and-Manager
 
-# Password Generator and Manager
+## Password Generator and Manager
 
 A Python application to generate secure random passwords with customizable options for length and complexity. It features a simple Tkinter GUI for easy password generation, copying, and saving.
 
