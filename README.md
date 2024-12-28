@@ -25,7 +25,7 @@ A Python application to generate secure random passwords with customizable optio
 1. Clone or download the project.
 2. Run the script:
    ```bash
-   python password_generator.py
+   python Gui_password_generator.py
 
 ## File Details 
 - SavedPasswords.txt: Stored on the Desktop with each generated password on a new line.
